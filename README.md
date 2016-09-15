@@ -1,5 +1,5 @@
 # Browser Push Notification Manager
-Display web Browser Push Notifications in Chroma and Mozilla
+Display web Browser Push Notifications in Google Chrome and Mozilla
 
 <img src="https://raw.githubusercontent.com/mskian/Browser-Push-Notification-Manager/master/web3.jpg"/>
 
@@ -9,8 +9,8 @@ Wordpress plugin by Santhoshveer (mskian.com)
 
 <img src="https://raw.githubusercontent.com/mskian/Browser-Push-Notification-Manager/master/web1.jpg" height="320" width="500"/>
 
-- Work in Google Chrome and Mozilla
-- Work in Both HTTPS/HTTP Connections
+- Works with Google Chrome and Mozilla Firefox
+- Works with Both HTTPS/HTTP Connections
 - Free Plugin 
 
 <h2>How to Install this we push Notification on Wordpress website?</h2>
